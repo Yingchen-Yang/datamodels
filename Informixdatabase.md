@@ -1,0 +1,1 @@
+Informix database (IBM), website is https://www.ibm.com/products/informix. It is a commerical database and it uses relational data model. IBM Informix supports a lot hosting models, including on-premises, cloud, and hybrid deployments. In all hosting models, Java can access Informix using JDBC, while Python can access it using libraries like ibm_db or SQLAlchemy.
