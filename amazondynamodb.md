@@ -1,0 +1,1 @@
+Amazon DynamoDB, the websites is https://aws.amazon.com/dynamodb/. It is a commerical database and supports key-value and document data model. Amazon Dynamo DB supports cloud hosting. Java can access DynamoDB using the AWS SDK for Java, while Python can access it using libraries like boto3 or PynamoDB. 
