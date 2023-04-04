@@ -1,0 +1,1 @@
+Firebase Realtime Database, the websites is https://firebase.google.com/products/realtime-database. It is a commerical data base, and uses stores data in a JSON-like format. It uses a tree-like data structure.
